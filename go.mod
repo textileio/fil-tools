@@ -60,7 +60,7 @@ require (
 	github.com/multiformats/go-multiaddr-dns v0.2.0
 	github.com/multiformats/go-multihash v0.0.14
 	github.com/olekukonko/tablewriter v0.0.5
-	github.com/ory/dockertest/v3 v3.6.3
+	github.com/ory/dockertest/v3 v3.7.0
 	github.com/oschwald/geoip2-golang v1.4.0
 	github.com/otiai10/copy v1.4.2
 	github.com/phayes/freeport v0.0.0-20180830031419-95f893ade6f2
