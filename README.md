@@ -203,7 +203,7 @@ make localnet
 
 Wait for seeing logs about the height of the chain increase in a regular cadence.
 
-Terminal 2:
+Terminal 2 (in the top-level repo directory):
 ```bash
 make build
 ❯ head -c 700 </dev/urandom > myfile
